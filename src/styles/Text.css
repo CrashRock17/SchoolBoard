@@ -1,0 +1,11 @@
+.text-style {
+    width: auto;
+    height: auto;
+    float: left;
+    color: #fff;
+    display: flex;
+	padding: 10px 10px;
+   /* margin: 0px 0px 0px 0px;  */  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /*background: black;*/
+}
